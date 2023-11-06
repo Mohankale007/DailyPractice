@@ -1,0 +1,14 @@
+C:\Users\mmkal\source\DailyPractice\Day1\PerfectNumber\PerfectNumber\bin\Debug\net6.0\PerfectNumber.exe
+C:\Users\mmkal\source\DailyPractice\Day1\PerfectNumber\PerfectNumber\bin\Debug\net6.0\PerfectNumber.deps.json
+C:\Users\mmkal\source\DailyPractice\Day1\PerfectNumber\PerfectNumber\bin\Debug\net6.0\PerfectNumber.runtimeconfig.json
+C:\Users\mmkal\source\DailyPractice\Day1\PerfectNumber\PerfectNumber\bin\Debug\net6.0\PerfectNumber.dll
+C:\Users\mmkal\source\DailyPractice\Day1\PerfectNumber\PerfectNumber\bin\Debug\net6.0\PerfectNumber.pdb
+C:\Users\mmkal\source\DailyPractice\Day1\PerfectNumber\PerfectNumber\obj\Debug\net6.0\PerfectNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mmkal\source\DailyPractice\Day1\PerfectNumber\PerfectNumber\obj\Debug\net6.0\PerfectNumber.AssemblyInfoInputs.cache
+C:\Users\mmkal\source\DailyPractice\Day1\PerfectNumber\PerfectNumber\obj\Debug\net6.0\PerfectNumber.AssemblyInfo.cs
+C:\Users\mmkal\source\DailyPractice\Day1\PerfectNumber\PerfectNumber\obj\Debug\net6.0\PerfectNumber.csproj.CoreCompileInputs.cache
+C:\Users\mmkal\source\DailyPractice\Day1\PerfectNumber\PerfectNumber\obj\Debug\net6.0\PerfectNumber.dll
+C:\Users\mmkal\source\DailyPractice\Day1\PerfectNumber\PerfectNumber\obj\Debug\net6.0\refint\PerfectNumber.dll
+C:\Users\mmkal\source\DailyPractice\Day1\PerfectNumber\PerfectNumber\obj\Debug\net6.0\PerfectNumber.pdb
+C:\Users\mmkal\source\DailyPractice\Day1\PerfectNumber\PerfectNumber\obj\Debug\net6.0\PerfectNumber.genruntimeconfig.cache
+C:\Users\mmkal\source\DailyPractice\Day1\PerfectNumber\PerfectNumber\obj\Debug\net6.0\ref\PerfectNumber.dll
