@@ -1,0 +1,14 @@
+C:\Users\mmkal\source\DailyPractice\Day1\FibonacciSeries\FibonacciSeries\bin\Debug\net6.0\FibonacciSeries.exe
+C:\Users\mmkal\source\DailyPractice\Day1\FibonacciSeries\FibonacciSeries\bin\Debug\net6.0\FibonacciSeries.deps.json
+C:\Users\mmkal\source\DailyPractice\Day1\FibonacciSeries\FibonacciSeries\bin\Debug\net6.0\FibonacciSeries.runtimeconfig.json
+C:\Users\mmkal\source\DailyPractice\Day1\FibonacciSeries\FibonacciSeries\bin\Debug\net6.0\FibonacciSeries.dll
+C:\Users\mmkal\source\DailyPractice\Day1\FibonacciSeries\FibonacciSeries\bin\Debug\net6.0\FibonacciSeries.pdb
+C:\Users\mmkal\source\DailyPractice\Day1\FibonacciSeries\FibonacciSeries\obj\Debug\net6.0\FibonacciSeries.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mmkal\source\DailyPractice\Day1\FibonacciSeries\FibonacciSeries\obj\Debug\net6.0\FibonacciSeries.AssemblyInfoInputs.cache
+C:\Users\mmkal\source\DailyPractice\Day1\FibonacciSeries\FibonacciSeries\obj\Debug\net6.0\FibonacciSeries.AssemblyInfo.cs
+C:\Users\mmkal\source\DailyPractice\Day1\FibonacciSeries\FibonacciSeries\obj\Debug\net6.0\FibonacciSeries.csproj.CoreCompileInputs.cache
+C:\Users\mmkal\source\DailyPractice\Day1\FibonacciSeries\FibonacciSeries\obj\Debug\net6.0\FibonacciSeries.dll
+C:\Users\mmkal\source\DailyPractice\Day1\FibonacciSeries\FibonacciSeries\obj\Debug\net6.0\refint\FibonacciSeries.dll
+C:\Users\mmkal\source\DailyPractice\Day1\FibonacciSeries\FibonacciSeries\obj\Debug\net6.0\FibonacciSeries.pdb
+C:\Users\mmkal\source\DailyPractice\Day1\FibonacciSeries\FibonacciSeries\obj\Debug\net6.0\FibonacciSeries.genruntimeconfig.cache
+C:\Users\mmkal\source\DailyPractice\Day1\FibonacciSeries\FibonacciSeries\obj\Debug\net6.0\ref\FibonacciSeries.dll
