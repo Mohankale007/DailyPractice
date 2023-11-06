@@ -1,0 +1,14 @@
+C:\Users\mmkal\source\DailyPractice\Day1\FactorialResult\FactorialResult\bin\Debug\net6.0\FactorialResult.exe
+C:\Users\mmkal\source\DailyPractice\Day1\FactorialResult\FactorialResult\bin\Debug\net6.0\FactorialResult.deps.json
+C:\Users\mmkal\source\DailyPractice\Day1\FactorialResult\FactorialResult\bin\Debug\net6.0\FactorialResult.runtimeconfig.json
+C:\Users\mmkal\source\DailyPractice\Day1\FactorialResult\FactorialResult\bin\Debug\net6.0\FactorialResult.dll
+C:\Users\mmkal\source\DailyPractice\Day1\FactorialResult\FactorialResult\bin\Debug\net6.0\FactorialResult.pdb
+C:\Users\mmkal\source\DailyPractice\Day1\FactorialResult\FactorialResult\obj\Debug\net6.0\FactorialResult.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mmkal\source\DailyPractice\Day1\FactorialResult\FactorialResult\obj\Debug\net6.0\FactorialResult.AssemblyInfoInputs.cache
+C:\Users\mmkal\source\DailyPractice\Day1\FactorialResult\FactorialResult\obj\Debug\net6.0\FactorialResult.AssemblyInfo.cs
+C:\Users\mmkal\source\DailyPractice\Day1\FactorialResult\FactorialResult\obj\Debug\net6.0\FactorialResult.csproj.CoreCompileInputs.cache
+C:\Users\mmkal\source\DailyPractice\Day1\FactorialResult\FactorialResult\obj\Debug\net6.0\FactorialResult.dll
+C:\Users\mmkal\source\DailyPractice\Day1\FactorialResult\FactorialResult\obj\Debug\net6.0\refint\FactorialResult.dll
+C:\Users\mmkal\source\DailyPractice\Day1\FactorialResult\FactorialResult\obj\Debug\net6.0\FactorialResult.pdb
+C:\Users\mmkal\source\DailyPractice\Day1\FactorialResult\FactorialResult\obj\Debug\net6.0\FactorialResult.genruntimeconfig.cache
+C:\Users\mmkal\source\DailyPractice\Day1\FactorialResult\FactorialResult\obj\Debug\net6.0\ref\FactorialResult.dll
