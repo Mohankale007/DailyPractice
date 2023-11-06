@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Addition_N_NaturalNumbers/1.0.0": {
+        "runtime": {
+          "Addition_N_NaturalNumbers.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Addition_N_NaturalNumbers/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

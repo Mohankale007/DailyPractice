@@ -1,0 +1,14 @@
+C:\Users\mmkal\source\DailyPractice\Day1\Addition_N_NaturalNumbers\Addition_N_NaturalNumbers\bin\Debug\net6.0\Addition_N_NaturalNumbers.exe
+C:\Users\mmkal\source\DailyPractice\Day1\Addition_N_NaturalNumbers\Addition_N_NaturalNumbers\bin\Debug\net6.0\Addition_N_NaturalNumbers.deps.json
+C:\Users\mmkal\source\DailyPractice\Day1\Addition_N_NaturalNumbers\Addition_N_NaturalNumbers\bin\Debug\net6.0\Addition_N_NaturalNumbers.runtimeconfig.json
+C:\Users\mmkal\source\DailyPractice\Day1\Addition_N_NaturalNumbers\Addition_N_NaturalNumbers\bin\Debug\net6.0\Addition_N_NaturalNumbers.dll
+C:\Users\mmkal\source\DailyPractice\Day1\Addition_N_NaturalNumbers\Addition_N_NaturalNumbers\bin\Debug\net6.0\Addition_N_NaturalNumbers.pdb
+C:\Users\mmkal\source\DailyPractice\Day1\Addition_N_NaturalNumbers\Addition_N_NaturalNumbers\obj\Debug\net6.0\Addition_N_NaturalNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mmkal\source\DailyPractice\Day1\Addition_N_NaturalNumbers\Addition_N_NaturalNumbers\obj\Debug\net6.0\Addition_N_NaturalNumbers.AssemblyInfoInputs.cache
+C:\Users\mmkal\source\DailyPractice\Day1\Addition_N_NaturalNumbers\Addition_N_NaturalNumbers\obj\Debug\net6.0\Addition_N_NaturalNumbers.AssemblyInfo.cs
+C:\Users\mmkal\source\DailyPractice\Day1\Addition_N_NaturalNumbers\Addition_N_NaturalNumbers\obj\Debug\net6.0\Addition_N_NaturalNumbers.csproj.CoreCompileInputs.cache
+C:\Users\mmkal\source\DailyPractice\Day1\Addition_N_NaturalNumbers\Addition_N_NaturalNumbers\obj\Debug\net6.0\Addition_N_NaturalNumbers.dll
+C:\Users\mmkal\source\DailyPractice\Day1\Addition_N_NaturalNumbers\Addition_N_NaturalNumbers\obj\Debug\net6.0\refint\Addition_N_NaturalNumbers.dll
+C:\Users\mmkal\source\DailyPractice\Day1\Addition_N_NaturalNumbers\Addition_N_NaturalNumbers\obj\Debug\net6.0\Addition_N_NaturalNumbers.pdb
+C:\Users\mmkal\source\DailyPractice\Day1\Addition_N_NaturalNumbers\Addition_N_NaturalNumbers\obj\Debug\net6.0\Addition_N_NaturalNumbers.genruntimeconfig.cache
+C:\Users\mmkal\source\DailyPractice\Day1\Addition_N_NaturalNumbers\Addition_N_NaturalNumbers\obj\Debug\net6.0\ref\Addition_N_NaturalNumbers.dll
