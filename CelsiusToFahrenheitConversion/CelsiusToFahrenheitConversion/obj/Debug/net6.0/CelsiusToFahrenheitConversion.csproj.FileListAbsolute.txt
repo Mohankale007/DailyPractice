@@ -1,0 +1,14 @@
+C:\Users\mmkal\source\DailyPractice\Day1\CelsiusToFahrenheitConversion\CelsiusToFahrenheitConversion\bin\Debug\net6.0\CelsiusToFahrenheitConversion.exe
+C:\Users\mmkal\source\DailyPractice\Day1\CelsiusToFahrenheitConversion\CelsiusToFahrenheitConversion\bin\Debug\net6.0\CelsiusToFahrenheitConversion.deps.json
+C:\Users\mmkal\source\DailyPractice\Day1\CelsiusToFahrenheitConversion\CelsiusToFahrenheitConversion\bin\Debug\net6.0\CelsiusToFahrenheitConversion.runtimeconfig.json
+C:\Users\mmkal\source\DailyPractice\Day1\CelsiusToFahrenheitConversion\CelsiusToFahrenheitConversion\bin\Debug\net6.0\CelsiusToFahrenheitConversion.dll
+C:\Users\mmkal\source\DailyPractice\Day1\CelsiusToFahrenheitConversion\CelsiusToFahrenheitConversion\bin\Debug\net6.0\CelsiusToFahrenheitConversion.pdb
+C:\Users\mmkal\source\DailyPractice\Day1\CelsiusToFahrenheitConversion\CelsiusToFahrenheitConversion\obj\Debug\net6.0\CelsiusToFahrenheitConversion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mmkal\source\DailyPractice\Day1\CelsiusToFahrenheitConversion\CelsiusToFahrenheitConversion\obj\Debug\net6.0\CelsiusToFahrenheitConversion.AssemblyInfoInputs.cache
+C:\Users\mmkal\source\DailyPractice\Day1\CelsiusToFahrenheitConversion\CelsiusToFahrenheitConversion\obj\Debug\net6.0\CelsiusToFahrenheitConversion.AssemblyInfo.cs
+C:\Users\mmkal\source\DailyPractice\Day1\CelsiusToFahrenheitConversion\CelsiusToFahrenheitConversion\obj\Debug\net6.0\CelsiusToFahrenheitConversion.csproj.CoreCompileInputs.cache
+C:\Users\mmkal\source\DailyPractice\Day1\CelsiusToFahrenheitConversion\CelsiusToFahrenheitConversion\obj\Debug\net6.0\CelsiusToFahrenheitConversion.dll
+C:\Users\mmkal\source\DailyPractice\Day1\CelsiusToFahrenheitConversion\CelsiusToFahrenheitConversion\obj\Debug\net6.0\refint\CelsiusToFahrenheitConversion.dll
+C:\Users\mmkal\source\DailyPractice\Day1\CelsiusToFahrenheitConversion\CelsiusToFahrenheitConversion\obj\Debug\net6.0\CelsiusToFahrenheitConversion.pdb
+C:\Users\mmkal\source\DailyPractice\Day1\CelsiusToFahrenheitConversion\CelsiusToFahrenheitConversion\obj\Debug\net6.0\CelsiusToFahrenheitConversion.genruntimeconfig.cache
+C:\Users\mmkal\source\DailyPractice\Day1\CelsiusToFahrenheitConversion\CelsiusToFahrenheitConversion\obj\Debug\net6.0\ref\CelsiusToFahrenheitConversion.dll
