@@ -1,0 +1,14 @@
+C:\Users\mmkal\source\DailyPractice\Day1\StringIsPalindromeOrNot\StringIsPalindromeOrNot\bin\Debug\net6.0\StringIsPalindromeOrNot.exe
+C:\Users\mmkal\source\DailyPractice\Day1\StringIsPalindromeOrNot\StringIsPalindromeOrNot\bin\Debug\net6.0\StringIsPalindromeOrNot.deps.json
+C:\Users\mmkal\source\DailyPractice\Day1\StringIsPalindromeOrNot\StringIsPalindromeOrNot\bin\Debug\net6.0\StringIsPalindromeOrNot.runtimeconfig.json
+C:\Users\mmkal\source\DailyPractice\Day1\StringIsPalindromeOrNot\StringIsPalindromeOrNot\bin\Debug\net6.0\StringIsPalindromeOrNot.dll
+C:\Users\mmkal\source\DailyPractice\Day1\StringIsPalindromeOrNot\StringIsPalindromeOrNot\bin\Debug\net6.0\StringIsPalindromeOrNot.pdb
+C:\Users\mmkal\source\DailyPractice\Day1\StringIsPalindromeOrNot\StringIsPalindromeOrNot\obj\Debug\net6.0\StringIsPalindromeOrNot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mmkal\source\DailyPractice\Day1\StringIsPalindromeOrNot\StringIsPalindromeOrNot\obj\Debug\net6.0\StringIsPalindromeOrNot.AssemblyInfoInputs.cache
+C:\Users\mmkal\source\DailyPractice\Day1\StringIsPalindromeOrNot\StringIsPalindromeOrNot\obj\Debug\net6.0\StringIsPalindromeOrNot.AssemblyInfo.cs
+C:\Users\mmkal\source\DailyPractice\Day1\StringIsPalindromeOrNot\StringIsPalindromeOrNot\obj\Debug\net6.0\StringIsPalindromeOrNot.csproj.CoreCompileInputs.cache
+C:\Users\mmkal\source\DailyPractice\Day1\StringIsPalindromeOrNot\StringIsPalindromeOrNot\obj\Debug\net6.0\StringIsPalindromeOrNot.dll
+C:\Users\mmkal\source\DailyPractice\Day1\StringIsPalindromeOrNot\StringIsPalindromeOrNot\obj\Debug\net6.0\refint\StringIsPalindromeOrNot.dll
+C:\Users\mmkal\source\DailyPractice\Day1\StringIsPalindromeOrNot\StringIsPalindromeOrNot\obj\Debug\net6.0\StringIsPalindromeOrNot.pdb
+C:\Users\mmkal\source\DailyPractice\Day1\StringIsPalindromeOrNot\StringIsPalindromeOrNot\obj\Debug\net6.0\StringIsPalindromeOrNot.genruntimeconfig.cache
+C:\Users\mmkal\source\DailyPractice\Day1\StringIsPalindromeOrNot\StringIsPalindromeOrNot\obj\Debug\net6.0\ref\StringIsPalindromeOrNot.dll
